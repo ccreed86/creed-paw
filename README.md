@@ -17,17 +17,11 @@ a text editor that runs in the browser. The app is a single-page application tha
 
 ## Installation
 
-npm install inquirer@8.2.4
-https://www.npmjs.com/package/inquirer/v/8.2.4
+npm install express
+https://www.npmjs.com/package/express
 
-npm install express@4.17.1
-https://www.npmjs.com/package/express/v/4.17.1
-
-npm install pg@8.11.5
-https://www.npmjs.com/package/pg/v/8.11.5
-
-to run tests, install jest
-https://www.npmjs.com/package/jest
+npm install if-env
+https://www.npmjs.com/package/if-env
 
 ## Usage
 
